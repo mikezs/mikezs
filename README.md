@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 💛 Things I love...
 - Testing - Test-driven development. I've lost count how many times it's saved the day.
 - Architecture - How can we structure code to make it testable, maintainable and a low-learning curve
-- Security - Cryptography,  and reverse-engineering
+- Security - Cryptography, analysis and reverse-engineering
 - [Advent of Code](https://github.com/mikezs/AoC-2021)
 
 ### 🔭 I’m currently working on...
