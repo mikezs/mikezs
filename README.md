@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mikezs/mikezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Mike Bignell ![Location: Essex](https://img.shields.io/badge/location-Essex-brightgreen)
+> iOS Developer working at [Karmarama](https://www.karmarama.com/).
+
+### 💛 Things I love...
+- Testing - Test-driven development. I've lost count how many times it's saved the day.
+- Architecture - How can we structure code to make it testable, maintainable and a low-learning curve
+- Security - Cryptography,  and reverse-engineering
+- [Advent of Code](https://github.com/mikezs/AoC-2021)
+
+### 🔭 I’m currently working on...
+- JOTT - A JWT signer and verifier library in a single file swift.
+
+### 📖 My open source libraries are...
+- [Tisander](https://github.com/mikezs/Tisander) - An ordered JSON parser for when clients need you to honour the order of dictionary items in an API
+
+### Hobbies...
+- Electronics ⚡️
+- Mechanical Engineering 🔩
+- Snowboarding 🏂
+- IoT and Home Automation 🌐
+- Motorcycles 🏍
+- Cycling 🚴
+- 3D Printing 🖨
