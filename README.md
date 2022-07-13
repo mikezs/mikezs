@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mike Bignell ![Location: Essex](https://img.shields.io/badge/location-Essex-brightgreen)
-> iOS Developer working at [Karmarama](https://www.karmarama.com/).
+![Header](github-header-image.png)
+
+# Mike Bignell ![Location: Essex](https://img.shields.io/badge/location-Essex-brightgreen) ![Profile views](https://gpvc.arturio.dev/mikezs)  
+> iOS Developer working at [Accenture](https://www.accenture.com/).
 
 ### 💛 Things I love...
 - Testing - Test-driven development. I've lost count how many times it's saved the day.
@@ -36,3 +38,6 @@ Here are some ideas to get you started:
 - Motorcycles 🏍
 - Cycling 🚴
 - 3D Printing 🖨
+
+### Stats...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikezs&show_icons=true)  
